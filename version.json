@@ -1,0 +1,14 @@
+{
+  "version": "2.1.20",
+  "release_date": "2026-10-29 09:00:41",
+  "repository": "kienvt0502/Kehoachtindung-Releases",
+  "min_supported_version": "2.0.0",
+  "installer_name": "Setup_Kehoachtindung_v2.exe",
+  "installer_url": "https://github.com/kienvt0502/Kehoachtindung-Releases/releases/latest/download/Setup_Kehoachtindung_v2.exe",
+  "patch_url": "https://github.com/kienvt0502/Kehoachtindung-Releases/releases/latest/download/update_patch.zip",
+  "changelog": [
+    "Phát hành phiên bản v2.1.20",
+    "Cập nhật các module tính năng nghiệp vụ",
+    "Tự động đồng bộ và nâng cấp online từ GitHub Releases"
+  ]
+}
